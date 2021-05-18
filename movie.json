@@ -1,0 +1,18 @@
+{
+  "match": "imdbFind",
+  "meta": {
+    "id": "tt0096697",
+    "name": "The Simpsons",
+    "year": 1989,
+    "type": "TV series",
+    "yearRange": "1989-",
+    "image": {
+      "src": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "width": 1000,
+      "height": 1500
+    },
+    "starring": "Dan Castellaneta, Nancy Cartwright",
+    "similarity": 1
+  }
+
+}
